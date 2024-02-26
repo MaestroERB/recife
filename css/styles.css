@@ -1,0 +1,18 @@
+header{
+    background-color: rgb(149, 157, 158);
+    text-align: center;
+
+}
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  h1 {
+    color: rgb(0, 0, 0);
+  }
+  p {
+    color: rgb(0, 0, 0);
+  }
+  footer {
+    background-color: rgb(156, 156, 156);
+    text-align: center;
+  }
